@@ -1,3 +1,9 @@
 
+\
+java:S1118":Add a private constructor to hide the implicit public one.(àüÌöüÿÿÿÿ8×¬ÈôÓ2
+S
+java:S1128"1Remove this unused import 'koschei.models.Duck5'.(Æüé¹ùÿÿÿÿ8”İíôÓ2
 U
-java:S1118":Add a private constructor to hide the implicit public one.(àüÌöüÿÿÿÿ
+java:S1128"3Remove this unused import 'koschei.models.Rabbit4'.(©Îó•üÿÿÿÿ8”İíôÓ2
+h
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Primary'.(“ğ›ß8”İíôÓ2
